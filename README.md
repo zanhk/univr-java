@@ -1,2 +1,2 @@
-# java_univr
-Test ed esercitazioni di Java
+# Esercitazioni di Java
+Test ed esercitazioni di Java per UNIVR

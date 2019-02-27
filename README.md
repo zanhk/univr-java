@@ -14,14 +14,14 @@ Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ''.
 
 #### Plug-ins consigliati VS-CODE:
 <ul>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode">Code Time</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2">Bracket Pair Colorizer</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Java Extension Pack</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack">Live Share Extension Pack</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Just Live Share</a>
-<br/><a href="https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard">Live Share Whiteboard</a>
-<li></li><br/><a href="https://marketplace.visualstudio.com/items?itemName=karigari.chat">Team Chat for slack</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode">Code Time</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2">Bracket Pair Colorizer</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Java Extension Pack</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack">Live Share Extension Pack</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Just Live Share</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard">Live Share Whiteboard</a></li>
+<br/><li><a href="https://marketplace.visualstudio.com/items?itemName=karigari.chat">Team Chat for slack</a></li>
 </ul>
 #### Temi e Icone consigliati VS-CODE:
 <br/><a href="https://marketplace.visualstudio.com/items?itemName=k3a.theme-dark-plus-contrast">Dark+ Contrast</a>

@@ -2,7 +2,7 @@
 Test ed esercitazioni di Java per UNIVR
 
 
-## Software Richiesto:
+# Software Richiesto:
 <br/><a href="https://code.visualstudio.com/">VS Code</a>
 <br/><a href="https://desktop.github.com/">Github Desktop</a>
 <br/><a href="https://git-scm.com/downloads">Git</a>

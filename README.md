@@ -8,7 +8,7 @@ Test ed esercitazioni di Java per UNIVR
 <br/><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java SDK</a>
 
 #Font
-<br/><a haref="https://github.com/tonsky/FiraCode">Fira Code</a>
+<br/><a href="https://github.com/tonsky/FiraCode">Fira Code</a>
 Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ''.
 
 #Plug-ins consigliati VS-CODE:

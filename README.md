@@ -15,6 +15,7 @@ Test ed esercitazioni di Java per UNIVR
 <li><a href="https://github.com/tonsky/FiraCode">Fira Code</a>
 Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ''.</li>
 </ul>
+
 #### Plug-ins consigliati VS-CODE:
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode">Code Time</a></li>
@@ -26,6 +27,7 @@ Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ''.</li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard">Live Share Whiteboard</a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=karigari.chat">Team Chat for slack</a></li>
 </ul>
+
 #### Temi e Icone consigliati VS-CODE:
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=k3a.theme-dark-plus-contrast">Dark+ Contrast</a></li>

@@ -6,7 +6,7 @@ Test ed esercitazioni di Java per UNIVR
 <ul>
 <li><a href="https://code.visualstudio.com/">VS Code</a></li>
 <li><a href="https://desktop.github.com/">Github Desktop</a></li>
-<li></li><a href="https://git-scm.com/downloads">Git</a></li>
+<li><a href="https://git-scm.com/downloads">Git</a></li>
 <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java SDK</a></li>
 </ul>
 

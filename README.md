@@ -13,7 +13,7 @@ Test ed esercitazioni di Java per UNIVR
 #### Font
 <ul>
 <li><a href="https://github.com/tonsky/FiraCode">Fira Code</a>
-Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ''.</li>
+Su impostazioni>Editor>Font sostituire 'Consolas' con 'Fira Code' senza ' '. Successivamente attivare le legature del font su VS Code</li>
 </ul>
 
 #### Plug-ins consigliati VS-CODE:
